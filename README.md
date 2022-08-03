@@ -2,7 +2,7 @@
 This is a project was created to refactor code by meeting the necessary rules and standards in web accessibility. This website has been improved and recreated for a long term sustainability, thus making the links functional, cleaning up the HTML and CSS, and making the website in a whole more efficient. 
 
 # Submition 
-URL: file:///Users/gabicastillo/Desktop/Develop/index.html 
+URL: https://gabriellepcastillo.github.io/Develop/ 
 
 GitHub Repo URL: https://github.com/gabriellepcastillo/Develop.git 
 
